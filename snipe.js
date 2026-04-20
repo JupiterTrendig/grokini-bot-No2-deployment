@@ -1409,8 +1409,7 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *Welcome To pocketspro onSolana!Bot* 🤖
-
+🚀 *Welcome To pocketspro!Bot* 🤖
 *I'm your Web3 execution engine*.
 ━━━━━━━━━━━━━━━━━━
 *What I do for you*:⬇️
