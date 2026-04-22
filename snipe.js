@@ -1409,9 +1409,8 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *Welcome To Achilles Trojan !Bot* 🤖
-*your Ultimate OnChain Trading Experience *.
-━━━━━━━━━━━━━━━━━━
+🚀 *Welcome To Achilles Trojan Bot* 🤖
+
 *What I do for you*:⬇️
 📊 Scan the market to tell you what to buy, ignore, or stalk
 🎯 Execute entries & exits with sniper-level timing
@@ -1419,7 +1418,6 @@ async function showMainMenu(ctx, edit = false) {
 ⚡ Operate at machine-speed — no lag, no emotion
 ━━━━━━━━━━━━━━━━━━
 ${walletInfo}
-🏦 *CASH & STABLE COIN BANK*
 _Paste any Solana contract address to analyze_
   `;
   
