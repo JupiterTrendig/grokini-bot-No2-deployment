@@ -1409,8 +1409,8 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *Welcome To pocketspro!Bot* 🤖
-*I'm your Web3 execution engine*.
+🚀 *Welcome To Achilles Trojan !Bot* 🤖
+*your Ultimate OnChain Trading Experience *.
 ━━━━━━━━━━━━━━━━━━
 *What I do for you*:⬇️
 📊 Scan the market to tell you what to buy, ignore, or stalk
