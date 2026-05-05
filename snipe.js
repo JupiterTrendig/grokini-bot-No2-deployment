@@ -1185,7 +1185,7 @@ async function sendTokenAnalysis(ctx, address) {
     
     const solPriceDisplay = solPrice > 0 ? `$${solPrice.toFixed(2)}` : '⚠️ Error';
     
-    const message = `*🎯 WTF TOKEN SCANNER*
+    const message = `*🎯 JUPITER TOKEN SCANNER*
 
 🪙 *${pair.baseToken?.name || 'Unknown'}* (${pair.baseToken?.symbol || '???'})
 \`${address}\`
@@ -1409,7 +1409,7 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *Welcome To Achilles Trojan Bot* 🤖
+🚀 *Welcome To JupiterTading Bot* 🤖
 
 *What I do for you*:⬇️
 📊 Scan the market to tell you what to buy, ignore, or stalk
@@ -1578,7 +1578,7 @@ Use the Sell menu or /sell 50 [address]
 🔔 *Notifications:* Toggle alerts
 
 ━━━━━━━━━━━━━━━━━━
-🆘 *Support:* https://t.me/Wtfsupportteam
+🆘 *Support:* https://t.me/bryl6lz7s21
 ━━━━━━━━━━━━━━━━━━
 
 For issues or questions, contact our support team.
