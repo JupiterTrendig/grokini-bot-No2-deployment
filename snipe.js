@@ -1409,7 +1409,7 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *Welcome To JupiterTading Bot* 🤖
+🚀 *Welcome To Axiom Trading Bot* 🤖
 
 *What I do for you*:⬇️
 📊 Scan the market to tell you what to buy, ignore, or stalk
